@@ -1,4 +1,4 @@
-# Horiseon Website Code Refactoring
+# Horiseon Website Code Refactor
 
 ## Project Description
 
