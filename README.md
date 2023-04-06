@@ -28,5 +28,6 @@ Navigation bars at the top right corner of the website allow a user to navigate 
 ![Website Screenshot](websiteimage.png)
 
 ## Links
+[Click here to access the deployed website.](https://fadumaabdi.github.io/HoriseonsRefactoring/)
 
 [Click here to access the files on the github repository.](https://github.com/fadumaabdi/HoriseonsRefactoring)
