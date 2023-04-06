@@ -9,8 +9,7 @@ Below is a summary of the changes that have been made to both the HTML and CSS f
 * Non Semantic Elements such as 'div' replaced with semantic HTML elements such as 'header','nav', 'section', 'aside' and 'footer' to aid long term sustainability.
 
 * Alt text added to all images to improve accessibility. 
-
-* Descriptice Title added to potentially increase web traffic.
+* Descriptive Title added to potentially increase web traffic.
 
 * Em-dash punctuation used to improve user readibility.
 
@@ -22,11 +21,12 @@ Below is a summary of the changes that have been made to both the HTML and CSS f
 
 ## Usage
 
-The Navigation bars at the top right corner of the website allow a user to navigate through the site to each section they would like to read.
+This a single-page website which is only optimised for larger screens and so is not yet compatible for use on smaller screens. 
 
-![The Horison webpage navigation bar is shown below](CHALLENGES\HoriseonsRefactoring\assets\images\websiteimage.png)
+Navigation bars at the top right corner of the website allow a user to navigate through the site to each section they would like to read.
 
+![Website Screenshot](websiteimage.png)
 
-## License
+## Links
 
-NA
+[Click here to access the files on the github repository.](https://github.com/fadumaabdi/HoriseonsRefactoring)
