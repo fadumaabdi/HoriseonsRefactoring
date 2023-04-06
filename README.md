@@ -25,7 +25,7 @@ This a single-page website which is only optimised for larger screens and so is 
 
 Navigation bars at the top right corner of the website allow a user to navigate through the site to each section they would like to read.
 
-![Website Screenshot](websiteimage.png)
+![Website Screenshot](finalwebsiteimage.png)
 
 ## Links
 [Click here to access the deployed website.](https://fadumaabdi.github.io/HoriseonsRefactoring/)
